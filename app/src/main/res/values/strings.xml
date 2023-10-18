@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomBD Project1</string>
+    <string name="save_data">Save data</string>
+    <string name="show_data">Show Data</string>
+</resources>
